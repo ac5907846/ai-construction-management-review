@@ -382,7 +382,7 @@
               </p>
               <h3 className="text-base font-semibold text-slate-900 mt-6 mb-2">Citation</h3>
               <p className="text-sm text-slate-600 leading-relaxed bg-slate-50 border border-slate-200 rounded-md p-3 font-mono">
-                [Author(s)]. ({new Date().getFullYear()}). A Systematic Review of Artificial Intelligence Applications in Construction Management. International Journal of Construction Management.
+                [Author(s)]. ({new Date().getFullYear()}). A Systematic Review of Artificial Intelligence Applications in Construction Management. Engineering, Construction and Architectural Management.
               </p>
               <h3 className="text-base font-semibold text-slate-900 mt-6 mb-2">Updates</h3>
               <p className="text-slate-700 leading-relaxed">
